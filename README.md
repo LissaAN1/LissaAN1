@@ -1,4 +1,4 @@
-# Hi, I'm Angy 👋
+# Hi, I'm Angy 
 
 **Estudiante de Ingeniería en Sistemas & Telemática** en la Universidad Icesi (Cali, Colombia)  
 Apasionada por el desarrollo Full Stack, los sistemas distribuidos y el aprendizaje continuo.  
@@ -47,15 +47,6 @@ Clasificador multi-output (calidad + tamaño) para 6 tipos de frutas. F1-macro ~
 ### 🔹 API Gestión Agrícola — Spring Boot
 API REST para gestión de propiedades agrícolas, sensores y dispositivos ESP32.  
 `Spring Boot` `Java` `Microservicios` `JWT`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LissaAN1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LissaAN1&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
 
